@@ -10,8 +10,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "devDependencies": {
     "dead-server": "^1.0.9"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
   }
 }
